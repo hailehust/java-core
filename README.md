@@ -1,2 +1,2 @@
 # java-core
-Some example for studying Java core
+Some examples for studying Java core
